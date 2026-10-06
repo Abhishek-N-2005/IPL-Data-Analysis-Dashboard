@@ -3,7 +3,7 @@
 An interactive **IPL Data Analysis Dashboard** developed using **Microsoft Excel** to analyze IPL seasons, team performance, toss decisions, venues, winners, and player performance from **2008 to 2025**.
 
 ## 📊 Dashboard Preview
-![IPL Data Analysis Dashboard](Images/IPL_Dashboard.png)
+![IPL Data Analysis Dashboard](IPL_Dashboard.png)
 
 ---
 ## 📌 Project Overview
@@ -83,5 +83,4 @@ IPL-Data-Analysis-Dashboard/
 │
 ├── IPL_Data_Analysis_Dashboard.xlsx
 │
-└── Images/
-    └── IPL_Dashboard.png
+└── IPL_Dashboard.png
